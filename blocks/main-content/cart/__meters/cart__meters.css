@@ -1,0 +1,9 @@
+.cart__meters{
+    margin-left: 20px;
+    color: rgb(102, 102, 102);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 50px;
+    font-family: 'Inter', 'Arial', 'sans-serif';
+}

@@ -1,0 +1,8 @@
+.lead__text {
+  position: relative;
+  font-style: normal; 
+  font-weight: 400; 
+  font-size: 16px; 
+  margin-right: 1px;
+  font-family: 'Inter', 'Arial', 'sans-serif'; 
+}

@@ -1,0 +1,9 @@
+.cart__arcticle {
+    color: rgb(0, 90, 162);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 50px;
+    font-family: 'Inter', 'Arial', 'sans-serif';
+    margin-left: 20px;
+}

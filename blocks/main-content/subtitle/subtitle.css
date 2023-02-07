@@ -1,0 +1,10 @@
+.subtitle {
+  margin-top: 20px;
+  display: flex;
+  background-color: rgb(246, 246, 246);
+  gap: 40px ;
+  padding-left: 10px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

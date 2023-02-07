@@ -1,0 +1,9 @@
+.cart__favorite {
+background-image: url(../../../../Image/favorite_border.png);
+background-size: 50px 50px;
+background-color: rgb(246,246,246);
+background-repeat: no-repeat;
+background-position: center;
+width: 50px;
+height: 50px;
+}

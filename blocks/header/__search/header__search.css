@@ -1,0 +1,7 @@
+.header__search {
+  margin-left: 20px;
+  border-style: none;
+  border-bottom: solid 1px rgba(84, 84, 84, 0.7);
+  display: flex;
+  max-height: 70px;
+}

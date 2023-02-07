@@ -1,0 +1,9 @@
+.stats__span {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #000;
+    margin: 0;
+    font-family: 'Inter', 'Arial', 'sans-serif';
+    line-height: 163%;
+}

@@ -1,0 +1,8 @@
+.cart__WhatsApp {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-image: url(../../../../Image/WhatsApp.png);
+    background-repeat: no-repeat;
+    background-position: center; 
+}

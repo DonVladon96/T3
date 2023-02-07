@@ -1,0 +1,11 @@
+.main-image__pull {
+  width: 125px;
+  background-color: rgb(219, 213, 208);
+  display: flex;
+  flex-direction: row;
+  border-radius: 40px;
+  margin: 0;
+  position: absolute;
+  bottom: 20px;
+  right: 160px;
+}

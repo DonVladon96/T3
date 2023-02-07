@@ -1,0 +1,11 @@
+.header__input {
+  height: 100%;
+  width: 100%;
+  border-style: none;
+  text-align: left;
+  font-family: 'Inter', 'Arial', 'sans-serif'; 
+  line-height: 163%; 
+  font-style: normal; 
+  font-weight: 400; 
+  font-size: 18px; 
+}

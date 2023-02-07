@@ -1,0 +1,9 @@
+.cart__price {
+    margin-left: 20px;
+    color: rgb(0, 90, 162);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 100px;
+    font-family: 'Inter', 'Arial', 'sans-serif';
+}

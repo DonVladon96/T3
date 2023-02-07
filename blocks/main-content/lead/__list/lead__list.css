@@ -1,0 +1,10 @@
+.lead__list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin: auto;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 10px;
+}
